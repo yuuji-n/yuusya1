@@ -6,7 +6,7 @@ null,
 {"id":4,"expanded":false,"name":"森の町","order":2,"parentId":2,"scrollX":451,"scrollY":364.5},
 {"id":5,"expanded":false,"name":"仏","order":5,"parentId":2,"scrollX":459,"scrollY":312.5},
 {"id":6,"expanded":true,"name":"第2章オープニング","order":6,"parentId":0,"scrollX":459,"scrollY":312.5},
-{"id":7,"expanded":false,"name":"海岸","order":8,"parentId":6,"scrollX":816,"scrollY":1375.5},
+{"id":7,"expanded":false,"name":"海岸","order":8,"parentId":6,"scrollX":1017,"scrollY":1555.5},
 {"id":8,"expanded":false,"name":"魔王城1F","order":7,"parentId":6,"scrollX":816,"scrollY":1752.5},
 {"id":9,"expanded":false,"name":"西の塔","order":9,"parentId":6,"scrollX":816,"scrollY":535.5}
 ]
